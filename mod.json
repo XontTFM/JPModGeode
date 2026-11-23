@@ -9,11 +9,12 @@
 	},
 	"early-load": true,
 	"id": "xonttfm.jpmodgeode",
-	"name": "JPMenu",
-	"developer": "XontTFM",
-	"description": "El mod menú de calidad de vida (QoL) más completo y gratuito para Geometry Dash 2.2091+.",
+	"name": "QOLMod (v6 Port)",
+	"developer": "TheSillyDoggo, XontTFM",
+	"description": "Unofficial port of TheSillyDoggo's QOLMod updated for Geode v6 and Geometry Dash 2.2091.",
 	"links": {
-		"source": "https://github.com/XontTFM/JPModGeode"
+		"source": "https://github.com/XontTFM/JPModGeode",
+		"community": "https://github.com/TheSillyDoggo/GeodeMenu"
 	},
 	"resources": {
         "files": [
