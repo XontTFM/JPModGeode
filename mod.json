@@ -11,7 +11,10 @@
 	"id": "xonttfm.jpmodgeode",
 	"name": "JPMenu",
 	"developer": "XontTFM",
-	"description": "El mejor menú mod de calidad de vida (QoL) gratuito para Geometry Dash!",
+	"description": "El mod menú de calidad de vida (QoL) más completo y gratuito para Geometry Dash 2.2091+.",
+	"links": {
+		"source": "https://github.com/XontTFM/JPModGeode"
+	},
 	"resources": {
         "files": [
             "resources/fonts/kosugimaru/*.fnt",
@@ -22,7 +25,8 @@
 			"resources/fonts/notosans/*.png",
 			"resources/translations/*.json",
 			"resources/translations/langs/*.json",
-			"resources/files/*.md"
+			"resources/files/*.md",
+			"resources/start.wav"
         ],
 		"sprites": [
 			"resources/sprites/slider/*.png",
