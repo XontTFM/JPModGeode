@@ -1,0 +1,61 @@
+{
+	"geode": "6.0.0-beta.2",
+	"version": "v1.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"early-load": true,
+	"id": "xonttfm.jpmodgeode",
+	"name": "JPMenu",
+	"developer": "XontTFM",
+	"description": "El mejor menú mod de calidad de vida (QoL) gratuito para Geometry Dash!",
+	"resources": {
+        "files": [
+            "resources/fonts/kosugimaru/*.fnt",
+			"resources/fonts/kosugimaru/*.png",
+			"resources/fonts/lexend/*.fnt",
+			"resources/fonts/lexend/*.png",
+			"resources/fonts/notosans/*.fnt",
+			"resources/fonts/notosans/*.png",
+			"resources/translations/*.json",
+			"resources/translations/langs/*.json",
+			"resources/files/*.md"
+        ],
+		"sprites": [
+			"resources/sprites/slider/*.png",
+			"resources/sprites/icons/anchors/*.png",
+			"resources/sprites/icons/paint/*.png",
+			"resources/sprites/free/*.png"
+		],
+		"spritesheets": {
+			"qolmod-ui-sheet": [
+				"resources/sprites/buttons/*.png",
+				"resources/sprites/icons/animations/*.png",
+				"resources/sprites/icons/categories/*.png",
+				"resources/sprites/icons/shortcuts/*.png",
+				"resources/sprites/*.png"
+			],
+            "qolmod-shortcut-sheet": [
+                "resources/sprites/shortcuts/out/*.png"
+            ]
+		}
+    },
+	"settings": {
+		"open-menu-keybind": {
+			"type": "keybind",
+			"name": "Open Menu Bind",
+			"default": "Tab",
+			"priority": 8008135
+		}
+	},
+	"tags": [
+		"cheat",
+		"gameplay",
+		"utility",
+		"customization",
+		"universal"
+	]
+}
